@@ -1,12 +1,5 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Maintainer:
-"       Amir Salihefendic — @amix3k
-"
-" Awesome_version:
-"       Get this config, nice color schemes and lots of plugins!
-"
-"       Install the awesome version from:
-"
+" Reference:
 "           https://github.com/amix/vimrc
 "
 " Sections:
